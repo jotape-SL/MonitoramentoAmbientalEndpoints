@@ -78,6 +78,10 @@
               "target": "Package",
               "version": "[4.20.70, )"
             },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
             "Oracle.EntityFrameworkCore": {
               "target": "Package",
               "version": "[8.23.40, )"

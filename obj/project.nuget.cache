@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "f64KDTL/qGY=",
+  "dgSpecHash": "6paycz+/Y0o=",
   "success": true,
   "projectFilePath": "Z:\\Usuarios\\Jotape\\Downloads\\MonitoramentoAmbientalEndpoints\\MonitoramentoAmbientalEndpoints.csproj",
   "expectedPackageFiles": [
@@ -41,6 +41,7 @@
     "C:\\Users\\jolun\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.20.1\\microsoft.visualstudio.azure.containers.tools.targets.1.20.1.nupkg.sha512",
     "C:\\Users\\jolun\\.nuget\\packages\\mono.texttemplating\\2.2.1\\mono.texttemplating.2.2.1.nupkg.sha512",
     "C:\\Users\\jolun\\.nuget\\packages\\moq\\4.20.70\\moq.4.20.70.nupkg.sha512",
+    "C:\\Users\\jolun\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
     "C:\\Users\\jolun\\.nuget\\packages\\oracle.entityframeworkcore\\8.23.40\\oracle.entityframeworkcore.8.23.40.nupkg.sha512",
     "C:\\Users\\jolun\\.nuget\\packages\\oracle.manageddataaccess.core\\23.4.0\\oracle.manageddataaccess.core.23.4.0.nupkg.sha512",
     "C:\\Users\\jolun\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
