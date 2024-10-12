@@ -25,3 +25,7 @@ jobs:
         run: dotnet build --no-restore --configuration Debug
       - name: Test
         run: dotnet test --no-build --verbosity normal
+      - name: Restore Test Dependencies
+        run: dotnet restore /p:RestorePackagesConfig=true
+      - name: Clean, Restore, and Build
+        run: dotnet clean && dotnet restore && dotnet build
