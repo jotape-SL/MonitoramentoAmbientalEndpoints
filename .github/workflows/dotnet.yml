@@ -19,8 +19,6 @@ jobs:
         uses: actions/setup-dotnet@v3
         with:
           dotnet-version: 8.0.x
-      - name: Clean, Restore, and Build
-        run: dotnet clean -c Release && dotnet restore && dotnet build
       - name: Restore dependencies
         run: dotnet restore --no-cache
       - name: Build
