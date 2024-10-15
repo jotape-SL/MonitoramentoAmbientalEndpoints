@@ -1,0 +1,61 @@
+# Arquivos de log
+*.log
+logs/
+*.log.*
+
+# Configurações do usuário do Visual Studio
+.vscode/
+.vscode/settings.json
+.vscode/tasks.json
+.vscode/launch.json
+
+# Arquivos de build e binários
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
+
+# Configuração do ambiente local e secrets
+.env
+*.env
+secrets.json
+
+# Configurações de dependências
+packages/
+.vscode/
+
+# Arquivos temporários e de cache
+tmp/
+temp/
+*.tmp
+*.swp
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Arquivos de backup
+*.bak
+*.old
+*.orig
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos de Docker
+docker-compose.override.yml
+docker-compose.yml
+.dockerignore
+
+# Arquivos de Teste
+TestResults/
+*.TestResults/
+*.trx
+*.coverage
+.coverage
+
+# Outras dependências do sistema operacional ou IDEs
+.idea/
+*.iml
